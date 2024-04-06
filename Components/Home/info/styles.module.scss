@@ -22,7 +22,7 @@
 
       .sub {
         font-size: 18px;
-        color: #000000;
+        // color: #000000;
         font-weight: 500;
         margin-top: 15px;
         margin-bottom: 15px;
@@ -52,16 +52,19 @@
         h3 {
           margin-top: 0;
           font-size: 20px;
-          color: #000000;
+          // color: #000000;
           font-weight: 500;
           margin-bottom: 15px;
           line-height: 1.4;
+          font-family: "Cairo", sans-serif !important;
         }
         p {
-          color: #848484;
+          // color: #848484;
+          font-family: "Cairo", sans-serif !important;
           line-height: 1.9;
           margin-top: 0;
           font-size: 15px;
+          
         }
       }
     }
